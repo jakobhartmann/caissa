@@ -1,0 +1,100 @@
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "1"]
+[White "NN110"]
+[Black "NN40"]
+[Result "1-0"]
+
+1. e3 g6 2. Be2 b6 3. b4 Ba6 4. Bxa6 e5 5. Bc4 Qh4 6. Bxf7+ Kxf7 7. Qf3+ Kg7 8. Qf7+ 1-0
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "2"]
+[White "NN40"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. e4 b6 2. h3 a5 3. a3 Bb7 4. Qh5 e6 5. Qxf7+ Kxf7 6. Nc3 Qf6 7. Nb5 Qxf2+ 8. Kxf2 Bc5+ 9. Kg3 Bd6+ 0-1
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "3"]
+[White "NN110"]
+[Black "NN40"]
+[Result "1-0"]
+
+1. Nh3 h5 2. Ng1 a6 3. f4 h4 4. Nc3 b5 5. Rb1 Nf6 6. f5 Ng4 7. e3 Nf2 8. Qg4 Nxh1 9. Qe4 e5 10. Qc4 Qf6 11. Qxf7+ Kxf7 12. Bc4+ bxc4 13. Ne4 Kg8 14. Nxf6+ 1-0
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "4"]
+[White "NN40"]
+[Black "NN110"]
+[Result "1-0"]
+
+1. Nf3 Nf6 2. a3 Nd5 3. e4 f5 4. Ng5 g6 5. Qh5 Bg7 6. Qxg6+ hxg6 7. Ne6 Bc3 8. Nxc7+ Nxc7 9. Bc4 e6 10. Nxc3 Qh4 11. Nb5 Qxf2+ 12. Kxf2 Kf8 13. Nxc7 Kg8 14. Bxe6+ 1-0
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "5"]
+[White "NN110"]
+[Black "NN40"]
+[Result "1-0"]
+
+1. Nh3 Nf6 2. f4 c6 3. g3 Qc7 4. Nc3 e5 5. Ng1 Ng4 6. Bg2 Qb6 7. Nh3 Qf2+ 8. Nxf2 Ne3 9. dxe3 Bc5 10. Bd2 d6 11. Nd3 Bg4 12. Nxc5 a6 13. Bxc6+ Kf8 14. Qb1 bxc6 15. fxe5 dxc5 16. Qc1 Bh3 17. Rf1 Bg4 18. Rxf7+ Kxf7 19. e6+ 1-0
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "6"]
+[White "NN40"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. f4 g6 2. g4 a5 3. a3 Bg7 4. e3 Na6 5. Nf3 Bf6 6. Qe2 Bh4+ 7. Nxh4 Nc5 8. Nxg6 Nd3+ 9. cxd3 e6 10. Bg2 Qh4+ 0-1
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "7"]
+[White "NN110"]
+[Black "NN40"]
+[Result "1-0"]
+
+1. b3 d5 2. c4 g5 3. b4 e5 4. Qc2 a6 5. Qb3 Nc6 6. Qc3 Nxb4 7. Qxe5+ Kd7 8. Qe6+ fxe6 9. Nf3 Kd6 10. c5+ 1-0
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "8"]
+[White "NN40"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. Nh3 g5 2. c3 g4 3. Qc2 Bh6 4. Qg6 fxg6 5. e4 g3 6. a3 gxf2+ 7. Nxf2 Bxd2+ 8. Kd1 d5 9. Kc2 Qd6 10. Bxd2 Na6 11. Kd1 dxe4 12. Kc2 Qxd2+ 0-1
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "9"]
+[White "NN110"]
+[Black "NN40"]
+[Result "1-0"]
+
+1. f3 a6 2. d3 e5 3. g3 Qf6 4. Nd2 b6 5. f4 Qh4 6. gxh4 Nf6 7. f5 Ng4 8. Nc4 Ne3 9. Qd2 Nxc2+ 10. Qxc2 Nc6 11. Nd6+ cxd6 12. Qxc6 dxc6 13. d4 d5 14. Bd2 Bd7 15. O-O-O Ra7 16. f6 Kd8 17. Bh3 Be7 18. fxe7+ Ke8 19. Be6 fxe6 20. e3 Kxe7 21. Bb4+ 1-0
+
+[Event "NN40_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "10"]
+[White "NN40"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. g4 Nc6 2. h4 Rb8 3. a3 f5 4. e4 f4 5. b4 g6 6. Qf3 Ne5 7. Bc4 Nh6 8. Bb2 e6 9. Bd5 Nhxg4 10. Bc3 Bc5 11. bxc5 Qxh4 12. Ra2 Qxf2+ 13. Kd1 Ne3+ 14. Qxe3 Qf1+ 0-1
+

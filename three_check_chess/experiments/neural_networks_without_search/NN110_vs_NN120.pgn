@@ -1,0 +1,100 @@
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "1"]
+[White "NN120"]
+[Black "NN110"]
+[Result "1-0"]
+
+1. e3 e6 2. Bb5 Nh6 3. Qe2 Nc6 4. Bxc6 Ba3 5. Qd3 Bxb2 6. Bb5 Ng8 7. Qd4 Bxd4 8. Ba4 Bc5 9. Nc3 Qf6 10. Nh3 Qxf2+ 11. Nxf2 Bxe3 12. dxe3 c5 13. Nce4 b5 14. Nd6+ Kf8 15. Nde4 Nf6 16. Bb2 Nxe4 17. Nxe4 f6 18. Be5 fxe5 19. Nd6 bxa4 20. Rf1+ Kg8 21. Rf8+ 1-0
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "2"]
+[White "NN110"]
+[Black "NN120"]
+[Result "0-1"]
+
+1. h3 d5 2. Rh2 b6 3. d4 Bg4 4. Qd3 Bd7 5. Qf5 Bxf5 6. f3 Nc6 7. e3 Be4 8. h4 Bd3 9. Be2 Nh6 10. Bxd3 a6 11. Be4 Qd6 12. Bxh7 Qb4+ 13. Nd2 Qxd2+ 14. Bxd2 Nb4 15. Bxb4 e6 16. c3 Be7 17. Kf1 Nf5 18. Ke1 Nxe3 19. Ke2 Nxg2 20. Rxg2 Bxh4 21. Bg6 fxg6 22. Rxg6 Rd8 23. Kd2 Be1+ 0-1
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "3"]
+[White "NN120"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. f4 f5 2. Nf3 b6 3. Nd4 c5 4. Kf2 h5 5. Nf3 Qc7 6. Ke1 h4 7. g3 Bb7 8. Bh3 Bc6 9. Bg4 d5 10. Bh5+ Kd8 11. Nxh4 Rxh5 12. Nc3 Qd7 13. Nb5 Bxb5 14. Rg1 Qc8 15. Rb1 Ba6 16. Rf1 Qc6 17. Rf2 Rg5 18. Ng6 Rxg6 19. d4 Nf6 20. Rf3 Bd3 21. dxc5 Bc4 22. cxb6 Rh6 23. bxa7 Rxh2 24. Qd4 Qa6 25. Qb6+ Qxb6 26. Rc3 Qf2+ 27. Kd1 Bxe2+ 28. Kd2 Qe1+ 0-1
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "4"]
+[White "NN110"]
+[Black "NN120"]
+[Result "0-1"]
+
+1. f3 c6 2. Nc3 Na6 3. f4 Nb8 4. d4 Nh6 5. Qd2 Qc7 6. e3 Qd8 7. Qe2 Qc7 8. Qh5 Qd8 9. Qg5 d5 10. Kd2 Bh3 11. Qxg7 Bd7 12. Qxh8 Bc8 13. Bd3 Qc7 14. Nge2 Bg4 15. Nb5 Qa5+ 16. Nec3 Qxc3+ 17. bxc3 cxb5 18. Be2 e6 19. Bd3 Bf5 20. Bxf5 Nd7 21. Qg7 Nb6 22. Ke1 Be7 23. Kf1 Nxf5 24. Ke1 Bh4+ 0-1
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "5"]
+[White "NN120"]
+[Black "NN110"]
+[Result "1-0"]
+
+1. Nh3 a6 2. Ng1 Nh6 3. Nc3 d5 4. Nb1 d4 5. Nc3 c5 6. Nf3 e6 7. Nd5 exd5 8. Rg1 Be6 9. g3 Qg5 10. e4 Qh4 11. Bb5+ axb5 12. Qe2 Qg4 13. Qxb5+ Nc6 14. Qxc6+ 1-0
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "6"]
+[White "NN110"]
+[Black "NN120"]
+[Result "1-0"]
+
+1. e4 c6 2. d3 Nh6 3. Ke2 Qc7 4. Be3 Qg3 5. hxg3 Nf5 6. Bg5 Nh4 7. Rxh4 Na6 8. Nf3 Nb8 9. c3 Na6 10. Qc2 Nb4 11. Qd2 Rg8 12. Nd4 h5 13. Kf3 e5 14. Qf4 Nc2 15. Qxe5+ Be7 16. Qxe7# 1-0
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "7"]
+[White "NN120"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. c3 Na6 2. g4 f5 3. f4 Rb8 4. Nh3 Nb4 5. Kf2 Nd3+ 6. Kg1 Nc5 7. Qb3 Ne6 8. Qxe6 Nh6 9. Qxe7+ Qxe7 10. Nf2 Qe3 11. dxe3 Be7 12. Bd2 Bh4 13. Bc1 Bxf2+ 14. Kg2 b6 15. e4 Be1 16. h4 Nxg4 17. Kg1 Bf2+ 0-1
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "8"]
+[White "NN110"]
+[Black "NN120"]
+[Result "0-1"]
+
+1. a4 Nc6 2. h4 Nb4 3. Nc3 g5 4. Ne4 Bg7 5. hxg5 Bd4 6. e3 Nf6 7. Nc3 Na2 8. Bd3 Ng8 9. Rxa2 Bg7 10. Rxh7 Nf6 11. a5 Rxh7 12. Nb5 Rh1 13. Kf1 Rxg1+ 14. Kxg1 Nh7 15. Nxc7+ Qxc7 16. Kh1 Nxg5 17. Qh5 Kf8 18. Qh7 Nh3 19. gxh3 Qg3 20. fxg3 d5 21. Qg6 Kg8 22. Qd6 exd6 23. Bh7+ Kf8 24. Ra1 Bxh3 25. Bg8 Bg2+ 26. Kxg2 Rd8 27. g4 Bf6 28. Bh7 Be7 29. Kg1 Bh4 30. Kf1 Re8 31. Bg8 Rxe3 32. dxe3 d4 33. c4 dxe3 34. Bxe3 Ke8 35. Re1 Kd7 36. Ke2 Bg5 37. Rf1 a6 38. Kd1 Bh4 39. Rh1 Bg3 40. Rh8 Bh2 41. c5 dxc5 42. Bd4 Bb8 43. Be5 Kc6 44. b4 Kd5 45. Bc7 cxb4 46. Kc1 Ba7 47. Kd1 Be3 48. Be5 Kc6 49. Bb8 Bc5 50. Ke2 Kb5 51. g5 Bg1 52. Ke1 Bf2+ 0-1
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "9"]
+[White "NN120"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. f3 e6 2. c4 d6 3. Qc2 Qh4+ 4. g3 Qxg3+ 5. hxg3 Na6 6. Qa4+ c6 7. Qxc6+ bxc6 8. e4 Nb4 9. Kd1 Nc2 10. Kxc2 Rb8 11. Rh5 Be7 12. Re5 dxe5 13. Bh3 Rxb2+ 0-1
+
+[Event "NN110_vs_NN120"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "10"]
+[White "NN110"]
+[Black "NN120"]
+[Result "1-0"]
+
+1. g4 d6 2. e3 Nf6 3. Ba6 g6 4. Be2 Bd7 5. Bd3 Nc6 6. Bf5 Na5 7. Qf3 Rc8 8. Qg2 Rg8 9. Qd5 e6 10. Qe4 Nh5 11. Qxb7 Nxb7 12. Bxe6 Nf4 13. Bxf7+ Kxf7 14. exf4 Na5 15. Ne2 Qf6 16. Kd1 Bxg4 17. f5 Qc3 18. bxc3 gxf5 19. f3 Bg7 20. Rg1 Kf8 21. Rxg4 Bh8 22. Rg7 Rxg7 23. Ba3 Rg1+ 24. Nxg1 Re8 25. Bxd6+ cxd6 26. Nh3 Re1+ 27. Kxe1 Nc4 28. Nf4 Na3 29. Ng6+ 1-0
+

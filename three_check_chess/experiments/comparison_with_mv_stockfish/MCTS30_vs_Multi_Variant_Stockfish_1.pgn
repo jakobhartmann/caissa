@@ -1,0 +1,20 @@
+[Event "MCTS30_vs_Multi_Variant_Stockfish_1"]
+[Site "?"]
+[Date "2021.12.27"]
+[Round "1"]
+[White "Multi Variant Stockfish"]
+[Black "MCTS30"]
+[Result "1-0"]
+
+1. e4 Na6 2. d4 b6 3. Bc4 d6 4. Bxf7+ Kd7 5. Be6+ Kxe6 6. d5+ 1-0
+
+[Event "MCTS30_vs_Multi_Variant_Stockfish_1"]
+[Site "?"]
+[Date "2021.12.27"]
+[Round "2"]
+[White "MCTS30"]
+[Black "Multi Variant Stockfish"]
+[Result "0-1"]
+
+1. Na3 e5 2. h3 Bc5 3. b3 Bxf2+ 4. Kxf2 Qh4+ 5. Kf3 e4+ 0-1
+

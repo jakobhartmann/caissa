@@ -1,0 +1,100 @@
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "1"]
+[White "MCTS130"]
+[Black "MCTS100"]
+[Result "1-0"]
+
+1. f3 h6 2. h3 e6 3. g3 Qg5 4. e3 Qxg3+ 5. Ke2 Qf2+ 6. Kxf2 Nf6 7. Ke1 Bd6 8. f4 Nh7 9. Nf3 Be7 10. Ng5 Nxg5 11. fxg5 Bxg5 12. Ke2 b6 13. d3 Bb7 14. e4 Bxe4 15. dxe4 Nc6 16. Qxd7+ Kxd7 17. Kd1 Rhd8 18. Nd2 Ke8 19. Bd3 Be7 20. Rf1 Rxd3 21. cxd3 Rd8 22. Rf3 Rd4 23. a3 Rxd3 24. Rxd3 Bg5 25. Rb3 Bf4 26. Nf3 Be3 27. Bxe3 f5 28. Kc1 Na5 29. Kd1 fxe4 30. Nd4 Nc4 31. Ke2 Nxa3 32. Rc1 Nc2 33. Rxc2 e5 34. Rb4 Kf7 35. Rc5 g6 36. Rxc7+ Kf6 37. Rf7+ 1-0
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "2"]
+[White "MCTS100"]
+[Black "MCTS130"]
+[Result "0-1"]
+
+1. Nc3 f5 2. a4 h5 3. h3 e5 4. Na2 Bd6 5. Nb4 Qg5 6. Nc6 Qe3 7. dxe3 Bc5 8. f3 f4 9. g3 Nh6 10. c4 fxe3 11. Nxa7 Bb4+ 12. Qd2 exd2+ 13. Kd1 Nf5 14. c5 Ne3# 0-1
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "3"]
+[White "MCTS130"]
+[Black "MCTS100"]
+[Result "0-1"]
+
+1. b3 f6 2. Na3 Nh6 3. h4 b6 4. Nb5 Rg8 5. Nxa7 Bb7 6. Nh3 g5 7. e3 g4 8. g3 Bc6 9. c4 e6 10. Ba3 Bg7 11. Qb1 Bf8 12. Qg6+ hxg6 13. Nxc6 Bg7 14. Nxb8 f5 15. Be7 Bf6 16. Bc5 Rh8 17. Rg1 Rf8 18. a3 Rf7 19. Kd1 Bg5 20. Rb1 Qe7 21. Bd3 Qf6 22. Be4 Ra7 23. f3 Ng8 24. hxg5 Rf8 25. Bxb6 Ra4 26. Bd5 Rxc4 27. Be4 Rc2 28. Bd5 Qc3 29. Nxd7 Qxd2# 0-1
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "4"]
+[White "MCTS100"]
+[Black "MCTS130"]
+[Result "0-1"]
+
+1. f3 h5 2. a4 Nc6 3. c3 Nb4 4. Kf2 Nd3+ 5. exd3 e6 6. Ke2 Qf6 7. f4 Qh4 8. d4 Qg4+ 9. Kd3 Qf5+ 0-1
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "5"]
+[White "MCTS130"]
+[Black "MCTS100"]
+[Result "1-0"]
+
+1. h3 d6 2. d4 Qd7 3. Qd3 Qf5 4. Nf3 e6 5. c3 Qg5 6. Nxg5 d5 7. Qb5+ Nd7 8. Qxd7+ Bxd7 9. Nxf7 Kxf7 10. e4 Ke8 11. Be2 g6 12. Be3 Rd8 13. Na3 c6 14. Bc4 Rc8 15. Nb5 cxb5 16. exd5 bxc4 17. dxe6 Bxe6 18. b4 h6 19. g4 Nf6 20. O-O Bxb4 21. Bxh6 Kf7 22. Rae1 Rce8 23. Rxe6 Rxe6 24. f4 Re7 25. f5 Kg8 26. g5 Re1 27. gxf6 Rxf1+ 28. Kxf1 Kh7 29. fxg6+ 1-0
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "6"]
+[White "MCTS100"]
+[Black "MCTS130"]
+[Result "0-1"]
+
+1. d3 g6 2. h3 f6 3. a4 h5 4. g4 d5 5. f4 Rh7 6. h4 c5 7. Rh3 d4 8. g5 b5 9. b4 Rf7 10. Rh2 Qc7 11. Rg2 Qb6 12. c3 bxa4 13. gxf6 Ba6 14. Qxa4+ Nd7 15. Qxd7+ Kxd7 16. Rh2 Qe6 17. Bg2 Qxe2+ 18. Nxe2 Kc7 19. Na3 Kb8 20. Nxd4 cxd4 21. f5 e5 22. fxe6 Bd6 23. exf7 Bc8 24. Kf1 Ne7 25. Bf4 Bxf4 26. fxe7 Bg5 27. e8=R Bd8 28. Re7 Bxe7 29. f8=Q Bxf8 30. Be4 a6 31. Rf2 Bd6 32. Rf8 Bxf8 33. Bf5 Bxf5 34. Kg1 Bh6 35. Re1 Be3+ 36. Rxe3 dxe3 37. Kh2 e2 38. Nc2 e1=N 39. Nxe1 Bd7 40. Nf3 Kb7 41. Ne5 Rf8 42. Nf3 Re8 43. Ne5 Rxe5 44. d4 Re2+ 0-1
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "7"]
+[White "MCTS130"]
+[Black "MCTS100"]
+[Result "0-1"]
+
+1. c4 b6 2. f4 g6 3. a3 Nh6 4. Qa4 Bb7 5. Qc6 a6 6. Qxg6 a5 7. Qg8 Ng4 8. Qxf8+ Rxf8 9. b4 c5 10. e3 d5 11. f5 Qd7 12. Nh3 Ba6 13. f6 Kd8 14. fxe7+ Qxe7 15. Ng5 Qxg5 16. Bb2 Ke8 17. cxd5 Bd3 18. g3 Qf5 19. d6 Nd7 20. Bd4 Qf2+ 21. Kd1 Nxe3+ 22. Kc1 Qxd2+ 0-1
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "8"]
+[White "MCTS100"]
+[Black "MCTS130"]
+[Result "1-0"]
+
+1. b4 f5 2. Ba3 e5 3. g4 Nc6 4. Bg2 e4 5. Bb2 Nd4 6. Bh3 Ne7 7. Na3 Nec6 8. c3 Nb8 9. Nf3 Ke7 10. Ne5 b5 11. Ng6+ Ke8 12. Qb3 Nc2+ 13. Nxc2 Qe7 14. Qf7+ Qxf7 15. Ne7 Qc4 16. Nxf5 Kd8 17. Ncd4 Qxd4 18. Nxd4 Ke8 19. g5 Bc5 20. Bxd7+ 1-0
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "9"]
+[White "MCTS130"]
+[Black "MCTS100"]
+[Result "1-0"]
+
+1. Nf3 f6 2. b3 a5 3. b4 Nc6 4. Na3 Ra7 5. h3 Ra8 6. Bb2 axb4 7. Bc3 h5 8. Nh4 Na7 9. Nb5 Rh7 10. Bb2 e6 11. Ng6 b3 12. Ba3 Bb4 13. Bxb4 d5 14. e4 c6 15. Ba5 d4 16. Nc7+ Qxc7 17. Ne5 g6 18. Qxh5 Rxh5 19. Nxg6 Qg3 20. Ne5 Qxf2+ 21. Kxf2 Rf5+ 22. exf5 Nh6 23. Kg1 bxc2 24. Nc4 c1=Q 25. Rxc1 Kf8 26. Bb4+ Kg8 27. Nd6 d3 28. Ne4 Kh8 29. Bf8 c5 30. Bg7+ 1-0
+
+[Event "MCTS100_vs_MCTS130"]
+[Site "?"]
+[Date "2021.12.21"]
+[Round "10"]
+[White "MCTS100"]
+[Black "MCTS130"]
+[Result "0-1"]
+
+1. Nc3 Nc6 2. e3 d6 3. Na4 d5 4. a3 f6 5. Qh5+ g6 6. Qxg6+ hxg6 7. Bc4 dxc4 8. Nb6 Be6 9. Nxc4 Bxc4 10. Ra2 Qxd2+ 11. Bxd2 Rxh2 12. Rxh2 Nb4 13. axb4 Bh6 14. Rxa7 Rxa7 15. f3 Ra1+ 16. Bc1 Bxe3 17. Rh8 Bd2+ 0-1
+

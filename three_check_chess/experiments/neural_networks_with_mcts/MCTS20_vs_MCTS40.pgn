@@ -1,0 +1,100 @@
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "1"]
+[White "MCTS40"]
+[Black "MCTS20"]
+[Result "1-0"]
+
+1. a3 d6 2. b3 h6 3. e3 b5 4. Bxb5+ Nd7 5. Bxd7+ Qxd7 6. Qf3 Qc6 7. Qxc6+ 1-0
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "2"]
+[White "MCTS20"]
+[Black "MCTS40"]
+[Result "0-1"]
+
+1. Nc3 b6 2. Nf3 Nf6 3. d4 e5 4. Nb1 Na6 5. Bh6 d5 6. h3 Ne4 7. Nbd2 Qh4 8. Nxh4 Nb4 9. Rg1 Nxc2+ 10. Qxc2 Rg8 11. Qd1 Nxd2 12. Qxd2 a5 13. Qc2 Bf5 14. Qd1 Bb4+ 15. Qd2 Bxd2+ 0-1
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "3"]
+[White "MCTS40"]
+[Black "MCTS20"]
+[Result "1-0"]
+
+1. a4 b5 2. c4 d6 3. Na3 h5 4. Qc2 Kd7 5. Qe4 Bb7 6. Qf3 Rh7 7. a5 Rh6 8. Qxh5 Rxh5 9. Nxb5 f6 10. Nxc7 Qxc7 11. Ra2 Rh4 12. b4 Rh3 13. Ra1 Qc8 14. gxh3 Ke6 15. Nf3 Qd7 16. Ra2 Qc6 17. Ng1 Qd7 18. Ra3 Qe8 19. e4 Qd8 20. Ra4 Qc8 21. Bb2 Qd7 22. Ba3 Qe8 23. Bc1 Qd8 24. Nf3 Qd7 25. e5 Qe8 26. exf6 Qd8 27. Rg1 Qc8 28. Rg3 gxf6 29. Rg7 Bxg7 30. c5 Bh6 31. Ke2 Qd7 32. Ke1 Qc6 33. Ng5+ Bxg5 34. Bc4+ Kd7 35. Be6+ 1-0
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "4"]
+[White "MCTS20"]
+[Black "MCTS40"]
+[Result "0-1"]
+
+1. b4 e5 2. g3 b5 3. d3 Qf6 4. a4 Qc6 5. Nf3 Nf6 6. Bh3 Ng4 7. Kd2 Bxb4+ 8. c3 Bxc3+ 9. Nxc3 Qxc3+ 0-1
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "5"]
+[White "MCTS40"]
+[Black "MCTS20"]
+[Result "1-0"]
+
+1. c4 d5 2. Qc2 Nh6 3. Qf5 Na6 4. Qg6 Rb8 5. Qxf7+ Kxf7 6. g3 Rg8 7. cxd5 Qe8 8. Bg2 Qa4 9. d4 Rh8 10. a3 Rg8 11. Kd2 Rh8 12. e3 Rg8 13. Ra2 Rh8 14. Ra1 Rg8 15. Ra2 Rh8 16. Ra1 Rg8 17. Ra2 Rh8 18. Bf3 Rg8 19. b3 Kg6 20. bxa4 Rh8 21. Be4+ Kf7 22. Bg6+ 1-0
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "6"]
+[White "MCTS20"]
+[Black "MCTS40"]
+[Result "1/2-1/2"]
+
+1. b4 d6 2. d3 g5 3. e3 h5 4. Be2 h4 5. Bb2 Kd7 6. Nd2 Nf6 7. h3 Ng8 8. Rh2 Rh5 9. Rh1 e5 10. Rh2 Qf6 11. Rh1 Kd8 12. Qc1 Rh6 13. Rb1 Bd7 14. Rh2 a6 15. Rh1 Ra7 16. Rh2 Ra8 17. Rh1 Ra7 18. Rh2 Ra8 19. Rh1 Ra7 20. Rh2 Ra8 21. Rh1 Ra7 22. Rh2 Qg7 23. Rh1 Qh8 24. Rh2 Rh5 25. Rh1 Bg7 26. Rh2 g4 27. Rh1 gxh3 28. Nxh3 Nf6 29. Rg1 Ke8 30. Nf4 Kd8 31. Rh1 a5 32. Rg1 Ra6 33. Rh1 Rg5 34. Rg1 Rf5 35. Rh1 Kc8 36. Rg1 Nc6 37. Rh1 Nh5 38. Rg1 Rg5 39. Rh1 Rg6 40. Rg1 Ra7 41. Ne4 Bf6 42. Rh1 Rg7 43. Rg1 Rg8 44. Bg4 Ra8 45. Bf5 Rg6 46. Bg4 Rg7 47. Bf5 Rg8 48. Bg4 d5 49. Bf5 d4 50. Bg4 Be6 51. Bf5 Bxf5 52. Kd2 Rg6 53. Rh1 Rg7 54. Rg1 Rg8 55. exd4 Rg6 56. Ke3 Rg7 57. Kd2 Rg8 58. Ke3 Rg6 59. Kd2 Rg7 60. Kc3 Rg8 61. Kd2 Rg6 62. Kc3 Rg7 63. Kd2 Rg8 64. Kc3 Rg6 65. Kd2 Rg7 66. Kc3 Rg8 67. Kd2 Rg6 68. Kc3 Rg7 69. Kd2 Rg8 70. Kc3 Rg4 71. Kd2 Rg6 72. Kc3 Rg7 73. Kd2 Rg8 74. Kc3 Rg4 75. Kd2 Rg5 76. Kc3 Rg6 77. Kd2 Rg7 78. Kc3 Rg8 79. Kd2 Rg4 80. Kc3 Rg6 81. Kd2 Rg7 82. Kc3 Rg8 83. Kd2 1/2-1/2
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "7"]
+[White "MCTS40"]
+[Black "MCTS20"]
+[Result "1/2-1/2"]
+
+1. e3 a6 2. a4 d6 3. c3 Bg4 4. Qc2 h6 5. Qd1 c6 6. Qc2 Qc7 7. f3 Qb6 8. Qb3 Rh7 9. Bc4 Qd4 10. Nh3 Qxc3 11. Nxc3 Bxf3 12. gxf3 Rh8 13. Ng5 Rh7 14. Qa2 Rh8 15. d4 Rh7 16. Qa3 Rh8 17. Bd2 Rh7 18. Ra2 Rh8 19. Kf2 Rh7 20. Ke1 Ra7 21. a5 Rh8 22. Qa4 Rh7 23. Ra3 Rh8 24. Kf1 Rh7 25. Qb3 Rh8 26. Na4 Rh7 27. Bd3 Rh8 28. Nc5 Rh7 29. Ra4 Rh8 30. Ra3 Rh7 31. Ra4 Rh8 32. d5 Rh7 33. Ra3 Rh8 34. Ra4 Rh7 35. Ra3 Rh8 36. h4 Rh7 37. Ra4 Rh8 38. Ra3 Rh7 39. Qb4 Rh8 40. Qb5 Rh7 41. Qb4 Rh8 42. Qb5 Rh7 43. Qb4 Rh8 44. Qb5 Rh7 45. Qb4 Rh8 46. Qb5 Rh7 47. Qb4 1/2-1/2
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "8"]
+[White "MCTS20"]
+[Black "MCTS40"]
+[Result "0-1"]
+
+1. e4 c5 2. h4 h6 3. Bb5 a6 4. d3 Qc7 5. f3 Qg3+ 6. Ke2 Qxg2+ 7. Ke3 Qf2+ 0-1
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "9"]
+[White "MCTS40"]
+[Black "MCTS20"]
+[Result "0-1"]
+
+1. Nf3 h5 2. d4 a6 3. a3 b6 4. Kd2 c6 5. b4 Qc7 6. Ng1 Rh6 7. Bb2 Rg6 8. Nc3 Rg5 9. Qe1 Qd8 10. Nd5 Bb7 11. Nf6+ gxf6 12. Kd3 Qc7 13. d5 Qd8 14. Bxf6 Qc7 15. Nf3 Qd8 16. Be5 Qc7 17. Bd6 Qd8 18. Ke4 Qc7 19. Nd4 Qd8 20. Ne6 fxe6 21. c4 Rg6 22. Kf3 Rf6+ 23. Kg3 Rg6+ 24. Kh3 Rg3+ 0-1
+
+[Event "MCTS20_vs_MCTS40"]
+[Site "?"]
+[Date "2021.12.07"]
+[Round "10"]
+[White "MCTS20"]
+[Black "MCTS40"]
+[Result "0-1"]
+
+1. b4 h5 2. d4 f6 3. c4 e5 4. f3 Na6 5. e3 h4 6. h3 Qe7 7. Be2 Qxb4+ 8. Nc3 Qxc3+ 9. Kf2 Qe1+ 0-1
+

@@ -1,0 +1,100 @@
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "1"]
+[White "MCTS100"]
+[Black "MCTS70"]
+[Result "0-1"]
+
+1. a3 b5 2. c3 Nf6 3. Qb3 Ba6 4. Qd1 Qc8 5. g4 Nh5 6. d3 g6 7. Qc2 Kd8 8. d4 Bb7 9. Nd2 Bd5 10. Ra2 Nc6 11. h4 Qa6 12. a4 f6 13. Ra3 Bf3 14. Bg2 Nf4 15. e4 Nxg2+ 16. Kf1 Ne3+ 17. fxe3 Bg2+ 0-1
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "2"]
+[White "MCTS70"]
+[Black "MCTS100"]
+[Result "0-1"]
+
+1. Nf3 h6 2. g3 f5 3. h3 d6 4. Ng1 c5 5. c3 g5 6. Qa4+ Qd7 7. Qe4 fxe4 8. h4 Nc6 9. d3 c4 10. f4 Qc7 11. f5 Nb8 12. dxe4 Nf6 13. b3 Nbd7 14. Bb2 Nd5 15. Kd1 a6 16. g4 N5b6 17. e5 Nd5 18. h5 cxb3 19. Rh3 Ne3+ 20. Rxe3 bxa2 21. f6 axb1=Q+ 22. Rxb1 Qc6 23. f7+ Kd8 24. exd6 Qa4+ 0-1
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "3"]
+[White "MCTS100"]
+[Black "MCTS70"]
+[Result "1-0"]
+
+1. c3 g5 2. b4 c5 3. bxc5 b6 4. f3 Qc7 5. c6 d6 6. a3 Bg7 7. h3 f5 8. Qc2 Nh6 9. Kd1 Ng8 10. Qe4 e5 11. Qa4 Bf6 12. Qd4 Ke7 13. e4 Ba6 14. Rh2 Nxc6 15. Ne2 Nb4 16. a4 exd4 17. d3 Bc4 18. cxb4 g4 19. dxc4 Ke8 20. Bd2 d3 21. hxg4 dxe2+ 22. Bxe2 Rc8 23. exf5 Bc3 24. f6 Qxc4 25. f7+ Kf8 26. fxg8=R+ Rxg8 27. Bh6+ 1-0
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "4"]
+[White "MCTS70"]
+[Black "MCTS100"]
+[Result "0-1"]
+
+1. e4 e5 2. g4 Bd6 3. c4 Ne7 4. Bd3 a5 5. Nf3 Nd5 6. Nd4 Nc3 7. Nc6 dxc6 8. g5 Bh3 9. Qe2 Qf6 10. f4 Ke7 11. Qg4 Re8 12. Qg2 Kd8 13. gxf6 gxf6 14. Qg7 b6 15. Qxf7 b5 16. Qf8 Rxf8 17. Be2 h5 18. d3 Ra7 19. a4 Bc8 20. Bd1 Bd7 21. c5 Rb7 22. f5 h4 23. b4 Rg8 24. Bc2 Rg1+ 25. Rxg1 Nd1 26. Rg8+ Be8 27. Nd2 Ne3 28. Ke2 Nxf5 29. Ke1 Ne3 30. Ke2 Ng2 31. Nf1 Nf4+ 32. Kd2 Nh3 33. Rxe8+ Kxe8 34. Bb3 Kd8 35. cxd6 cxd6 36. bxa5 Nf2 37. Kc2 bxa4 38. Rxa4 Na6 39. Bg5 fxg5 40. Kb1 Rxb3+ 0-1
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "5"]
+[White "MCTS100"]
+[Black "MCTS70"]
+[Result "1-0"]
+
+1. Nc3 d6 2. g4 Bxg4 3. f4 h5 4. Nh3 b6 5. b4 e5 6. Nf2 Kd7 7. a3 Be6 8. Nb5 Rh6 9. Bh3 c5 10. Nd4 Rf6 11. Nb5 g5 12. Bf5 Rxf5 13. d3 Bd5 14. a4 Be6 15. O-O g4 16. Na3 b5 17. Kg2 Bd5+ 18. Kg1 Be4 19. a5 Bc6 20. Re1 Qh4 21. Nh3 Qf2+ 22. Nxf2 Rxf4 23. Bxf4 d5 24. Ra2 g3 25. hxg3 Nf6 26. Be3 Ke6 27. Nh1 d4 28. bxc5 Bh6 29. Bf4 Bxf4 30. gxf4 Nbd7 31. Qd2 Bg2 32. Nb1 Nxc5 33. f5+ Ke7 34. Qb4 Rc8 35. Qxc5+ Rxc5 36. Nc3 dxc3 37. Rb2 Be4 38. Rxb5 Rxb5 39. Ng3 Rb1 40. Rxb1 Bf3 41. Rb7+ 1-0
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "6"]
+[White "MCTS70"]
+[Black "MCTS100"]
+[Result "0-1"]
+
+1. h4 d6 2. b3 Bd7 3. f4 Bh3 4. Ba3 Bd7 5. Bc1 Bc6 6. Na3 d5 7. Rh2 Bd7 8. Rb1 c6 9. d4 e6 10. g3 g6 11. Rb2 Qa5+ 12. Bd2 Nh6 13. c3 Nf5 14. b4 Nd6 15. Qc1 Qd8 16. e4 a5 17. Rf2 Ra6 18. Rb3 b5 19. Be2 h5 20. Be3 f5 21. Qa1 Qxh4 22. Bg4 Qh2 23. Bf3 Qxf2+ 24. Bxf2 Bg7 25. Qb1 Rh6 26. exf5 Bxd4 27. Bxd4 Nb7 28. Qa1 Nc5 29. bxc5 e5 30. Ke2 exd4 31. Ke1 gxf5 32. Kd1 Re6 33. Be2 d3 34. Bxh5+ Kd8 35. c4 Re1+ 0-1
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "7"]
+[White "MCTS100"]
+[Black "MCTS70"]
+[Result "0-1"]
+
+1. a4 a6 2. Nc3 f5 3. Nf3 h6 4. e3 g6 5. g3 Bg7 6. Ra2 Ra7 7. Ra1 b6 8. Bg2 d6 9. h4 b5 10. Ke2 Nf6 11. axb5 Nh5 12. Rh2 d5 13. b3 Nxg3+ 14. Ke1 Ne4 15. Nd4 Nc5 16. Be4 Nd3+ 17. cxd3 Bxd4 18. exd4 Qd6 19. Qf3 Qxh2 20. Qg4 Qh1+ 0-1
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "8"]
+[White "MCTS70"]
+[Black "MCTS100"]
+[Result "1-0"]
+
+1. e4 c6 2. a4 h5 3. f3 d6 4. Qe2 e5 5. Nh3 a5 6. c4 Qh4+ 7. Kd1 Qf6 8. Nc3 Qf4 9. Ng5 Qxg5 10. Ra2 Bd7 11. d3 Ke7 12. Bxg5+ Ke8 13. Qd2 Nh6 14. Nb5 cxb5 15. Qxa5 Rxa5 16. c5 f5 17. Be3 Rh7 18. Bd4 Ng8 19. Rg1 Bc8 20. Kd2 Ra8 21. h4 Rh6 22. Kd1 Bd7 23. g4 Rg6 24. Bf2 Rf6 25. c6 bxc6 26. g5 Ra5 27. g6 Ra8 28. Kc1 Na6 29. Ba7 Bc8 30. Rg5 Rb8 31. Rg2 Rxg6 32. Rxg6 Bb7 33. Re6+ Kf7 34. Re7+ 1-0
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "9"]
+[White "MCTS100"]
+[Black "MCTS70"]
+[Result "1-0"]
+
+1. h3 f5 2. b3 a6 3. g3 Nc6 4. Nc3 a5 5. Nb5 Kf7 6. Nd6+ exd6 7. e3 Ke7 8. Qh5 Ne5 9. Qg5+ Ke8 10. Qg6+ 1-0
+
+[Event "MCTS70_vs_MCTS100"]
+[Site "?"]
+[Date "2021.12.09"]
+[Round "10"]
+[White "MCTS70"]
+[Black "MCTS100"]
+[Result "0-1"]
+
+1. Na3 a5 2. f3 b6 3. h4 b5 4. e3 e5 5. c4 bxc4 6. g3 Nh6 7. Nxc4 g6 8. Nxa5 Ra7 9. d4 Bb4+ 10. Qd2 Bxd2+ 11. Bxd2 Qf6 12. Bc4 Qg5 13. hxg5 exd4 14. Bxf7+ Nxf7 15. Rxh7 Rxh7 16. Kd1 Ba6 17. Kc1 Ne5 18. Kb1 Bd3+ 0-1
+

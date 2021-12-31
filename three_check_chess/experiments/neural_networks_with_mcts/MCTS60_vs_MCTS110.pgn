@@ -1,0 +1,100 @@
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "1"]
+[White "MCTS110"]
+[Black "MCTS60"]
+[Result "1-0"]
+
+1. d3 b6 2. f4 d6 3. e3 Bf5 4. c3 Be6 5. Qd2 a6 6. Nf3 Bh3 7. a4 Ra7 8. Na3 c6 9. Nd4 Bxg2 10. Qc2 g6 11. e4 d5 12. Qe2 Qd7 13. Nf5 f6 14. Kd2 Nh6 15. b3 e5 16. Nh4 Ke7 17. Qh5 Bxh1 18. Nf5+ Kd8 19. Qg5 fxg5 20. Kc2 Bb4 21. h3 Nf7 22. Kb1 Qc7 23. Nh6 Kc8 24. Nxf7 Nd7 25. Nd6+ Kb8 26. Ndb5 Qd6 27. Nxa7 Ka8 28. Kc2 Bc5 29. a5 Qe6 30. Nc4 dxc4 31. Nc8 Qg4 32. Nxb6+ 1-0
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "2"]
+[White "MCTS60"]
+[Black "MCTS110"]
+[Result "0-1"]
+
+1. f3 b5 2. g3 g5 3. e4 f6 4. a4 f5 5. Bg2 d5 6. Kf1 Nh6 7. e5 Ng8 8. Ne2 f4 9. b3 fxg3 10. Ra3 e6 11. Nxg3 a5 12. Nh5 c6 13. Ng7+ Bxg7 14. Nc3 Kf8 15. Qe1 Qd6 16. Bh3 Qc7 17. Nxd5 Ne7 18. Qe3 Bf6 19. Nc3 c5 20. Qe2 Ra7 21. Qd3 Ng6 22. Qd7 Qxd7 23. Ke1 Qxd2+ 24. Bxd2 Nf4 25. Bf1 Ng2+ 26. Bxg2 Bxe5 27. Kd1 Rd7 28. Nd5 Rxd5 29. Kc1 Bb2+ 0-1
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "3"]
+[White "MCTS110"]
+[Black "MCTS60"]
+[Result "1-0"]
+
+1. g3 g6 2. b4 Bh6 3. b5 Bf4 4. Bg2 Na6 5. Bf3 c5 6. h4 Qc7 7. Na3 h5 8. e3 Kf8 9. Ne2 e5 10. Nc3 Qb8 11. bxa6 f6 12. g4 d6 13. Bd5 Bxg4 14. Ne2 Qe8 15. d3 Rc8 16. Nd4 Rb8 17. Ne6+ Ke7 18. Ng7 bxa6 19. Qxg4 hxg4 20. Nf5+ gxf5 21. Rb1 Kf8 22. Rxb8 Qd8 23. Be6 Qe8 24. Rxe8+ 1-0
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "4"]
+[White "MCTS60"]
+[Black "MCTS110"]
+[Result "0-1"]
+
+1. c4 Nf6 2. g4 e6 3. b3 Na6 4. Nh3 Ba3 5. Rg1 Rb8 6. e3 Ng8 7. Bg2 Bb2 8. Qf3 e5 9. Qxf7+ Kxf7 10. Ng5+ Ke8 11. Bd5 Ke7 12. Bxb2 d6 13. Bxe5 dxe5 14. Bc6 Qxd2+ 15. Kxd2 bxc6 16. Nc3 Ke8 17. Nxh7 Rxh7 18. Rg3 Bb7 19. Nd5 Rd8 20. Ke1 Rxd5 21. Rf3 Nf6 22. Rxf6 gxf6 23. c5 Rhd7 24. Kf1 Rd1+ 25. Kg2 Rg1+ 0-1
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "5"]
+[White "MCTS110"]
+[Black "MCTS60"]
+[Result "1-0"]
+
+1. b3 f6 2. c4 a6 3. a3 f5 4. a4 g5 5. c5 Nc6 6. h3 d5 7. e4 g4 8. d3 Nh6 9. Na3 f4 10. Be2 Bg7 11. Nb1 Be6 12. Kd2 Bc3+ 13. Nxc3 Qd7 14. Nb1 Kf8 15. Ra2 Nd4 16. Ke1 Nc2+ 17. Rxc2 g3 18. fxg3 Qb5 19. axb5 fxg3 20. Bxh6+ Kg8 21. Qd2 Rf8 22. Qg5+ Kf7 23. Qh5+ 1-0
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "6"]
+[White "MCTS60"]
+[Black "MCTS110"]
+[Result "0-1"]
+
+1. e4 d6 2. f4 a6 3. Ne2 Bg4 4. a4 h6 5. h4 b6 6. c3 Qc8 7. d3 Qe6 8. Rh2 Qc8 9. d4 b5 10. Rh3 Nf6 11. h5 c6 12. e5 dxe5 13. Rh1 g6 14. Qc2 Bd7 15. Ra2 Bg4 16. Rh4 e4 17. Rh2 Bf3 18. Qd1 g5 19. c4 Ng4 20. b3 Nf2 21. gxf3 Nh1 22. c5 Qh3 23. Rxh3 exf3 24. Rd2 f2# 0-1
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "7"]
+[White "MCTS110"]
+[Black "MCTS60"]
+[Result "0-1"]
+
+1. c3 h6 2. e4 h5 3. Qc2 Nc6 4. Be2 d6 5. f4 Nd4 6. Qb3 Be6 7. Bb5+ c6 8. Bxc6+ bxc6 9. e5 d5 10. Qa4 Qd7 11. Qb4 Nc2+ 12. Kf2 Nxb4 13. cxb4 Bh3 14. Nc3 Qc7 15. d4 Rh6 16. Rb1 Re6 17. g3 Qb6 18. Nxd5 Qxd4+ 19. Ke2 Bg4+ 0-1
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "8"]
+[White "MCTS60"]
+[Black "MCTS110"]
+[Result "0-1"]
+
+1. Na3 h6 2. d3 Rh7 3. Nb1 d5 4. Bd2 e6 5. Be3 Qd7 6. Nd2 b5 7. Ne4 Qc6 8. Qc1 Bb4+ 9. Kd1 Qxc2+ 10. Qxc2 dxe4 11. Nf3 Bd7 12. Bxh6 Nf6 13. Nd4 Ng4 14. Kc1 Bd2+ 0-1
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "9"]
+[White "MCTS110"]
+[Black "MCTS60"]
+[Result "1-0"]
+
+1. a3 e6 2. Nh3 d5 3. d3 h6 4. Bxh6 Kd7 5. c3 Ke8 6. Be3 Rxh3 7. Bc1 c6 8. Be3 g6 9. b4 a6 10. Rg1 Nh6 11. g4 Rxe3 12. fxe3 Qh4+ 13. Kd2 Qf2 14. Kc2 Qxf1 15. Rxf1 Nf5 16. gxf5 Bc5 17. c4 Be7 18. fxg6 Kd7 19. Qd2 Bh4 20. d4 Ke8 21. gxf7+ Kd7 22. f8=N+ Ke8 23. Nh7 Kd8 24. Rf8+ 1-0
+
+[Event "MCTS60_vs_MCTS110"]
+[Site "?"]
+[Date "2021.12.08"]
+[Round "10"]
+[White "MCTS60"]
+[Black "MCTS110"]
+[Result "0-1"]
+
+1. Nf3 e6 2. g4 Qg5 3. h4 f5 4. e4 c5 5. Bb5 Ne7 6. Ba6 Qf4 7. O-O Kd8 8. Bd3 Qxg4+ 9. Kh2 Qxh4+ 10. Nxh4 Ng6 11. Kh1 Nf4 12. f3 Nh3 13. a3 Nf2+ 0-1
+

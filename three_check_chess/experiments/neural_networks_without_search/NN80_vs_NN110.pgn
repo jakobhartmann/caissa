@@ -1,0 +1,100 @@
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "1"]
+[White "NN110"]
+[Black "NN80"]
+[Result "0-1"]
+
+1. Nf3 g6 2. Rg1 h6 3. g3 h5 4. h3 a5 5. d4 Rh6 6. h4 Rh7 7. Rg2 Bh6 8. Nfd2 Bg7 9. Na3 Bf6 10. Nf3 Nc6 11. Nd2 Na7 12. Nf3 Rg7 13. Nd2 Rb8 14. Nf3 Rh7 15. Nd2 Rg7 16. Nf3 Rh7 17. Rh2 Rg7 18. c3 Rh7 19. Bh6 Nxh6 20. Rc1 Rg7 21. Nc2 Rh7 22. Nd2 Rg7 23. Nf3 Rh7 24. Ne3 Rg7 25. Rb1 Rh7 26. Rh1 Rg7 27. Qc2 Rh7 28. Ng1 Rg7 29. Qd1 Rh7 30. Nh3 Nf5 31. Ng1 Rg7 32. Qc2 Nh6 33. Qd1 Rh7 34. Qc2 Rg7 35. Qd1 Rh7 36. Nh3 Nb5 37. Ng1 e6 38. Nh3 Nf5 39. Ng1 Nfd6 40. Nh3 Na3 41. Ng1 Ne4 42. bxa3 Nxf2 43. Rb6 Nd3+ 44. Qxd3 Bxd4 45. Nd1 Bxc3+ 46. Kf2 Bd4+ 0-1
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "2"]
+[White "NN80"]
+[Black "NN110"]
+[Result "1-0"]
+
+1. h3 h6 2. c4 d5 3. b3 Be6 4. b4 Nd7 5. g4 Rb8 6. a3 b5 7. Bb2 Rb7 8. Bf6 exf6 9. Qa4 Qe7 10. Qb3 Bf5 11. f3 Qe3 12. Qxe3+ Be6 13. Qxe6+ fxe6 14. e3 c6 15. Bd3 Kd8 16. Nc3 Be7 17. Nxd5 cxd5 18. Ne2 Bd6 19. Nf4 Kc8 20. Nh5 Bg3+ 21. Ke2 Kb8 22. Nxg7 f5 23. Nxf5 Bh4 24. Nd4 Ka8 25. Nc6 Bf6 26. Ne7 Bxe7 27. cxd5 exd5 28. Rac1 Bc5 29. Ke1 Bxe3 30. dxe3 Ngf6 31. Rc8+ 1-0
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "3"]
+[White "NN110"]
+[Black "NN80"]
+[Result "1-0"]
+
+1. Na3 d5 2. Nh3 a5 3. c3 Nd7 4. Nc4 dxc4 5. Nf4 Ne5 6. Qa4+ Bd7 7. Qxd7+ Qxd7 8. Nh5 Ng6 9. Nf6+ 1-0
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "4"]
+[White "NN80"]
+[Black "NN110"]
+[Result "1-0"]
+
+1. Nc3 e5 2. Ne4 b5 3. Ng5 b4 4. h3 Ke7 5. a4 Qe8 6. Rb1 g6 7. c4 h6 8. b3 d6 9. c5 dxc5 10. Qc2 Qd7 11. f3 e4 12. Qxe4+ Kd8 13. Ne6+ fxe6 14. Qxe6 Qxe6 15. Bb2 Qxe2+ 16. Nxe2 Ne7 17. Bf6 Ke8 18. Nc3 Bf5 19. Bc4 Nd5 20. Bb5+ 1-0
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "5"]
+[White "NN110"]
+[Black "NN80"]
+[Result "1-0"]
+
+1. d3 Nh6 2. d4 Ng8 3. b4 a5 4. a3 g5 5. Bd2 Bg7 6. e3 Kf8 7. Qc1 Bf6 8. d5 Na6 9. Qd1 Bb2 10. Qc1 Be5 11. Qd1 Bf6 12. Qc1 Bb2 13. Qxb2 Nf6 14. Qc1 Nxb4 15. axb4 e5 16. Ra4 Qe7 17. b5 Qb4 18. Rxb4 Kg7 19. Be2 Rb8 20. Rf4 Rg8 21. Rxf6 Kh8 22. Bh5 c5 23. Nf3 Rg7 24. Nxg5 Rg8 25. Nxf7+ Kg7 26. e4 Ra8 27. Bh6+ Kxf6 28. Qg5+ 1-0
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "6"]
+[White "NN80"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. e3 b6 2. Ke2 Na6 3. f4 f5 4. d3 g6 5. Kf2 Bg7 6. Nf3 Nf6 7. Kg1 c5 8. Nfd2 c4 9. Qf3 e6 10. Qb7 Qe7 11. Qxc8+ Rxc8 12. Na3 Nd5 13. Nb5 Qh4 14. Nc7+ Naxc7 15. Nxc4 Kd8 16. Na5 bxa5 17. e4 Bd4+ 18. Be3 Qf2+ 19. Bxf2 Bxf2+ 0-1
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "7"]
+[White "NN110"]
+[Black "NN80"]
+[Result "0-1"]
+
+1. f4 f6 2. d3 Nh6 3. f5 Kf7 4. Qd2 Kg8 5. Qg5 Na6 6. Qg6 hxg6 7. Bg5 fxg5 8. Nh3 Nxf5 9. Nf2 Nh6 10. Nd2 Nf5 11. O-O-O Nh6 12. Nb1 Nf5 13. Rg1 Rb8 14. g3 Nh6 15. e3 Nf5 16. h3 Nh6 17. Rh1 Nf5 18. Ng4 Nh6 19. Nxh6+ Rxh6 20. Nc3 Kh8 21. Nb5 Rh7 22. Nxc7 Qxc7 23. c4 Qxc4+ 24. dxc4 Nb4 25. Kb1 Rh5 26. Rd5 Nxa2 27. Rd3 Nc3+ 28. Ka1 Nd1 29. Rxd1 e6 30. e4 Ra8 31. Rxd7 Bxd7 32. h4 Bc5 33. Ka2 Rg8 34. Kb1 Ba4 35. b3 Bxb3 36. Kb2 Bd4+ 0-1
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "8"]
+[White "NN80"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. e4 Nc6 2. a4 g6 3. c4 d6 4. h3 d5 5. Qc2 Bd7 6. Be2 Bg7 7. Bf1 Nd4 8. Be2 Nxc2+ 9. Kf1 Ne3+ 10. dxe3 dxe4 11. Nf3 Bc6 12. Ke1 Bc3+ 0-1
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "9"]
+[White "NN110"]
+[Black "NN80"]
+[Result "0-1"]
+
+1. a3 e6 2. c3 c6 3. d4 Qa5 4. Bd2 Qg5 5. Bxg5 Ne7 6. Bc1 h6 7. b4 Nd5 8. b5 Be7 9. Bb2 Bb4 10. cxb4 Kf8 11. Nd2 Ke8 12. Rc1 b6 13. Rc3 Ba6 14. Rc5 bxc5 15. Qb3 e5 16. Qe3 Nxe3 17. h3 Nc2+ 18. Kd1 Ne3+ 19. Kc1 Nd5 20. Ne4 Nc3 21. Bxc3 Kf8 22. d5 cxd5 23. h4 dxe4 24. Bd2 cxb4 25. Kb1 Kg8 26. Ka1 b3 27. Kb1 Bxb5 28. Kb2 Bxe2 29. Bxe2 g5 30. Bf1 g4 31. Kxb3 Na6 32. Ka2 Rb8 33. Ka1 Rb1+ 0-1
+
+[Event "NN80_vs_NN110"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "10"]
+[White "NN80"]
+[Black "NN110"]
+[Result "0-1"]
+
+1. b4 d6 2. g4 f6 3. c4 g6 4. h4 Nc6 5. f4 Bf5 6. h5 Bd7 7. Qb3 Be6 8. Qa4 Bh6 9. Qxc6+ bxc6 10. b5 Bd5 11. cxd5 Bxf4 12. Rh3 Be5 13. Rd3 Bg3+ 14. Rxg3 Qd7 15. Ra3 Rd8 16. Rg3 Rb8 17. Ra3 Ra8 18. Rg3 Rb8 19. Ra3 Rc8 20. Rg3 Rb8 21. Ra3 Rc8 22. Rg3 Rd8 23. Ra3 Qe6 24. Rg3 Qe5 25. Re3 Qxe3 26. dxe3 gxh5 27. g5 f5 28. Bg2 Nf6 29. Bd2 Rc8 30. Be4 Kd8 31. Kf2 Nxe4+ 32. Kg2 f4 33. Nf3 h4 34. exf4 h3+ 0-1
+

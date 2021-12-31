@@ -1,0 +1,20 @@
+[Event "MCTS90_vs_Multi_Variant_Stockfish_1"]
+[Site "?"]
+[Date "2021.12.24"]
+[Round "1"]
+[White "Multi Variant Stockfish"]
+[Black "MCTS90"]
+[Result "1-0"]
+
+1. e4 a6 2. d4 e5 3. Nc3 Bd6 4. Nf3 g5 5. Bxg5 Qxg5 6. Nxg5 Nh6 7. Nd5 O-O 8. Nf6+ Kh8 9. c3 exd4 10. Qxd4 Be5 11. Qxe5 Rg8 12. Nxg8+ Kxg8 13. Qg7+ 1-0
+
+[Event "MCTS90_vs_Multi_Variant_Stockfish_1"]
+[Site "?"]
+[Date "2021.12.24"]
+[Round "2"]
+[White "MCTS90"]
+[Black "Multi Variant Stockfish"]
+[Result "0-1"]
+
+1. a3 e5 2. g3 d5 3. g4 Bxg4 4. Nh3 Bc5 5. e3 Qh4 6. Qe2 Bxe2 7. Bxe2 Qe4 8. Bb5+ Kf8 9. Bf1 Qxc2 10. Ng5 Qxc1+ 11. Ke2 Qc4+ 12. Ke1 Qxf1+ 0-1
+

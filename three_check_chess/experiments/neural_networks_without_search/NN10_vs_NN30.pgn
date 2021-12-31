@@ -1,0 +1,100 @@
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "1"]
+[White "NN30"]
+[Black "NN10"]
+[Result "1/2-1/2"]
+
+1. Na3 a6 2. c3 h6 3. b3 Nf6 4. d3 Rg8 5. Nf3 Rh8 6. Ng5 Rg8 7. e3 Rh8 8. Nb5 Rg8 9. Qc2 Rh8 10. Ne4 Rg8 11. Nxf6+ gxf6 12. Rg1 Rh8 13. Rh1 c6 14. Rg1 Rg8 15. Rh1 Rh8 16. Rg1 Rg8 17. Rh1 Rh8 18. Rg1 Rg8 19. Rh1 Rh8 20. Rg1 Rg8 21. Rh1 Rh8 1/2-1/2
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "2"]
+[White "NN10"]
+[Black "NN30"]
+[Result "1/2-1/2"]
+
+1. e4 h6 2. f4 c5 3. c3 Nc6 4. a3 a6 5. h3 Nf6 6. Nf3 Ng4 7. Qc2 Qc7 8. Kd1 Qd6 9. Be2 Qe5 10. Rg1 Qxf4 11. Rh1 Ne3+ 12. Ke1 Nf1 13. Rg1 Rg8 14. Rh1 Rh8 15. Rg1 Rg8 16. Rh1 Rh8 17. Qd3 Rg8 18. Qd4 Rh8 19. Qd5 Qe3 20. Kd1 Qxd2+ 21. Bxd2 Rg8 22. Rg1 Rh8 23. Rh1 Rh7 24. Kc1 Rh8 25. Kd1 Ra7 26. Kc1 d6 27. Rg1 e6 28. Rh1 h5 29. Rg1 Rh7 30. Rh1 Rh8 31. Rg1 Rh7 32. Rh1 Rh8 33. Rg1 Rh7 34. Rh1 Rh8 35. Rg1 Rh7 36. Rh1 Rh8 1/2-1/2
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "3"]
+[White "NN30"]
+[Black "NN10"]
+[Result "1/2-1/2"]
+
+1. Na3 d5 2. Rb1 a5 3. b3 h6 4. d3 c6 5. Nf3 Qc7 6. Ng5 Nf6 7. Ne4 Kd8 8. Nb5 Rg8 9. a3 Rh8 10. Nxc7 Rg8 11. Nxf6 Rh8 12. Nfe8 Bd7 13. Rg1 Rg8 14. Rh1 Rh8 15. Rg1 Rg8 16. Rh1 Rh8 17. Rg1 c5 18. Rh1 Rg8 19. Rg1 Rh8 20. Rh1 Rg8 21. Rg1 Rh8 22. Rh1 Rg8 23. Rg1 Rh8 24. Rh1 Rg8 25. Rg1 Rh8 1/2-1/2
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "4"]
+[White "NN10"]
+[Black "NN30"]
+[Result "0-1"]
+
+1. b4 Na6 2. Ba3 d6 3. c3 b6 4. Qc2 Nf6 5. h3 Ng4 6. Nf3 e6 7. Kd1 Ne5 8. Rg1 Qf6 9. Rh1 Qg5 10. Rg1 Qe3 11. Rh1 Qxd2+ 12. Kxd2 Nxb4 13. Rg1 Rg8 14. Rh1 Rh8 15. Rg1 Rg8 16. Rh1 Rh8 17. Rg1 Rg8 18. Rh1 Rh8 19. Ng5 Nf3+ 20. Ke3 Ne1 21. Kd4 Rg8 22. Qd3 Rh8 23. Rg1 Rg8 24. Rh1 Rh8 25. Rg1 Kd7 26. Rh1 Kd8 27. Rg1 Rg8 28. Rh1 Rh8 29. Rg1 Rg8 30. Rh1 Rh8 31. Rg1 Rb8 32. Rh1 c6 33. Rg1 Rg8 34. Rh1 Rh8 35. Rg1 Rg8 36. Rh1 Rh8 37. Rg1 Rg8 38. Rh1 Rh8 39. Rg1 Ba6 40. Rh1 Rc8 41. Rg1 Nbxd3 42. Rh1 h6 43. Rg1 Rh7 44. Rh1 Rh8 45. g3 Ke8 46. Rg1 Kd7 47. Rh1 Ke8 48. Rg1 Nb4 49. Rh1 Nbd3 50. Rg1 Rd8 51. Rh1 Ng2 52. Rg1 Nb4 53. Rh1 Nd3 54. f3 f5 55. c4 Nb4 56. Rg1 Nd3 57. Rh1 d5 58. Rg1 f4 59. Rh1 Ra8 60. Bb2 Rc8 61. Nc3 Rb8 62. exd3 Ra8 63. Be2 Rc8 64. Bf1 Rb8 65. Be2 Ra8 66. Bf1 fxg3 67. Be2 hxg5 68. Bf1 Rc8 69. Be2 Ra8 70. Bf1 Rd8 71. Be2 Rxh3 72. Bf1 Rh4+ 0-1
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "5"]
+[White "NN30"]
+[Black "NN10"]
+[Result "1/2-1/2"]
+
+1. g3 a6 2. Nc3 c6 3. b3 Nf6 4. a3 Rg8 5. d3 h6 6. Nb5 Rh8 7. Nf3 Rg8 8. Ng5 Rh8 9. Rg1 Rg8 10. Rh1 Rh8 11. Rg1 Rg8 12. Rh1 Rh8 13. Rg1 Rg8 14. Rh1 Rh8 15. Rg1 Rg8 16. Rh1 Rh8 17. Rg1 1/2-1/2
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "6"]
+[White "NN10"]
+[Black "NN30"]
+[Result "0-1"]
+
+1. c3 h5 2. h3 c5 3. a3 Nc6 4. Nf3 a6 5. Rg1 Nf6 6. Rh1 Ng4 7. Rg1 Qc7 8. Rh1 Qg3 9. Rg1 Qxf2# 0-1
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "7"]
+[White "NN30"]
+[Black "NN10"]
+[Result "1/2-1/2"]
+
+1. h3 g6 2. c4 a6 3. Nc3 c6 4. d3 Nf6 5. Nf3 Qc7 6. Ng5 Kd8 7. Qc2 Rg8 8. Kd2 Rh8 9. Nce4 Rg8 10. Rg1 Rh8 11. Rh1 Rg8 12. Rg1 Rh8 13. Rh1 Rg8 14. Rh2 Rh8 15. Rh1 Rg8 16. Qd1 Rh8 17. Ke3 Rg8 18. Qc2 Rh8 19. Qd2 Rg8 20. Qd1 Rh8 21. Rh2 Rg8 22. Rh1 Rh8 23. Rh2 Rg8 24. Rh1 Rh8 25. Rh2 Ke8 26. Rh1 Kd8 27. Rh2 Ke8 28. Rh1 Kd8 1/2-1/2
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "8"]
+[White "NN10"]
+[Black "NN30"]
+[Result "1/2-1/2"]
+
+1. e4 h6 2. d3 Na6 3. c3 b6 4. h3 d6 5. a3 Nf6 6. Nf3 Ng4 7. Rg1 Ne3 8. Rh1 Nc2+ 9. Qxc2 Rg8 10. Kd1 Rh8 11. Rg1 Rg8 12. Rh1 Rh8 13. Rg1 Rg8 14. Rh1 Rh8 15. Rg1 Rg8 16. Rh1 Rh8 17. Rg1 Rg8 18. Rh1 1/2-1/2
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "9"]
+[White "NN30"]
+[Black "NN10"]
+[Result "1/2-1/2"]
+
+1. Na3 c6 2. h3 f5 3. b3 h6 4. d3 a6 5. Nf3 Nf6 6. Ng5 Rg8 7. Ne6 Rh8 8. Nc7+ Qxc7 9. Rh2 Kd8 10. Rh1 Rg8 11. Rg1 Rh8 12. Rh1 Rg8 13. Rg1 Rh8 14. Rh1 Rg8 15. Rg1 Rh8 16. Rh1 Rg8 17. Rg1 Rh8 18. Rh1 1/2-1/2
+
+[Event "NN10_vs_NN30"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "10"]
+[White "NN10"]
+[Black "NN30"]
+[Result "1/2-1/2"]
+
+1. b4 Na6 2. Nf3 d6 3. c3 b6 4. Bb2 Nf6 5. Qc2 Ng4 6. Kd1 e6 7. h3 Ne5 8. Rg1 Nxb4 9. Rh1 Nbd3 10. Rg1 Nc4 11. Rh1 Nc1 12. Rg1 Nb3 13. Rh1 Qg5 14. Rg1 Qe3 15. Rh1 Qxd2+ 16. Qxd2 Rg8 17. Qd3 Rh8 18. Qd4 Rg8 19. Qd5 Rh8 20. Rg1 Rg8 21. Rh1 Rh8 22. Rg1 Rg8 23. Rh1 Rh8 24. Ke1 Rg8 25. Kd1 Rh8 26. Rg1 e5 27. Rh1 Rg8 28. Rg1 Rh8 29. Rh1 Rg8 30. Ke1 Rh8 31. Kd1 Rg8 32. Ke1 Rh8 33. Kd1 Rg8 34. Ke1 Rh8 35. Kd1 1/2-1/2
+

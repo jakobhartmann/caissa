@@ -1,0 +1,100 @@
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "1"]
+[White "MCTS120"]
+[Black "MCTS80"]
+[Result "1-0"]
+
+1. Nc3 e5 2. Nb5 Qe7 3. h3 Qg5 4. Nxc7+ Kd8 5. Ne6+ fxe6 6. c3 b6 7. Qb3 Ba3 8. Qxb6+ 1-0
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "2"]
+[White "MCTS80"]
+[Black "MCTS120"]
+[Result "1-0"]
+
+1. c4 h6 2. a3 b6 3. Nc3 e6 4. Na4 f5 5. Ra2 Qf6 6. Qb3 Qe7 7. Qc2 Qxa3 8. e4 Qh3 9. Ra3 Qe3+ 10. fxe3 c6 11. Qb3 Ba6 12. Nc3 h5 13. Bd3 Nf6 14. Nd1 Ng4 15. Nf2 Kf7 16. Bb1 Nxe3 17. Qxe3 Bb7 18. Qg5 Na6 19. Qg6+ Ke7 20. Qf7+ Kxf7 21. exf5 Ke8 22. f6 Kd8 23. Bf5 Nb4 24. Ke2 gxf6 25. Rd3 Nd5 26. Rxd5 exd5 27. Bg4 Bg7 28. Kf1 hxg4 29. d3 Ke8 30. Nxg4 Kd8 31. Bf4 Kc8 32. Nxf6 Rh4 33. Nxd5 Rxf4+ 34. Nxf4 c5 35. Nf3 Bxf3 36. gxf3 d5 37. Ng6 Kd8 38. Ne5 Kc8 39. Nc6 Kc7 40. cxd5 Kd6 41. Ne7 Kd7 42. Nc6 Kd6 43. Ne7 Kd7 44. Nc6 Ke8 45. d6 Kf8 46. Ne7 Kf7 47. Ng6 Kf6 48. Nf4 Kf5 49. Rg1 b5 50. Rg5+ 1-0
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "3"]
+[White "MCTS120"]
+[Black "MCTS80"]
+[Result "1-0"]
+
+1. d3 f6 2. b4 a5 3. g4 Kf7 4. f4 Nh6 5. Ba3 axb4 6. Bb2 Ra5 7. a3 Nxg4 8. h4 Na6 9. Kd2 Re5 10. axb4 Kg8 11. Ra5 Rc5 12. Rxc5 Nh6 13. Rc4 Kf7 14. Rc3 g6 15. Bh3 c6 16. Ke1 b5 17. Be6+ dxe6 18. Rxc6 Ng4 19. c3 Qb6 20. Nh3 Qf2+ 21. Nxf2 Nh2 22. Kd2 Nf3+ 23. exf3 Bh6 24. Ke1 Bd7 25. Rxe6 Bxe6 26. Qb3 Nc5 27. Qxe6+ Nxe6 28. Ne4 Kf8 29. Nc5 Nxc5 30. Kf1 Nb3 31. Kg2 Nd4 32. cxd4 e5 33. Rc1 g5 34. Rc8+ 1-0
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "4"]
+[White "MCTS80"]
+[Black "MCTS120"]
+[Result "0-1"]
+
+1. Na3 d6 2. d3 Nc6 3. g3 Nd4 4. Bg5 c5 5. c3 Nb3 6. g4 e5 7. Bf6 Kd7 8. e3 Qb6 9. h4 h5 10. gxh5 Kc6 11. Bg2+ e4 12. Bxe4+ d5 13. c4 dxe4 14. Qg4 Bxg4 15. Nc2 Kd7 16. Be5 Qa5+ 17. Kf1 Bh3+ 18. Nxh3 Qe1+ 0-1
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "5"]
+[White "MCTS120"]
+[Black "MCTS80"]
+[Result "1-0"]
+
+1. b4 h5 2. c4 Rh7 3. Bb2 Nf6 4. e4 b5 5. h4 c6 6. Qa4 d5 7. Qxb5 dxc4 8. Bxc4 Qxd2+ 9. Nxd2 cxb5 10. Bxf7+ Kxf7 11. Bd4 g6 12. Rc1 e5 13. Rc7+ Kg8 14. Rg7+ 1-0
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "6"]
+[White "MCTS80"]
+[Black "MCTS120"]
+[Result "1-0"]
+
+1. h3 d6 2. c3 Be6 3. g4 Qd7 4. Na3 Qc8 5. Nf3 h6 6. d4 Bf5 7. Qa4+ Kd8 8. Qe8+ Kxe8 9. Nc4 Kd8 10. Nfe5 dxe5 11. Nxe5 Ke8 12. Nc4 Kd8 13. Bf4 Qd7 14. Bxc7+ 1-0
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "7"]
+[White "MCTS120"]
+[Black "MCTS80"]
+[Result "1-0"]
+
+1. e4 h6 2. Bd3 e6 3. Bf1 Qe7 4. Ba6 Nxa6 5. b4 Nxb4 6. Na3 Nxc2+ 7. Qxc2 d6 8. Qa4+ Qd7 9. Qxd7+ Bxd7 10. Nc4 Kd8 11. Na5 Kc8 12. Nxb7 Kb8 13. Na5 Kc8 14. Nb7 Kb8 15. Nd8 Kc8 16. Nb7 Kb8 17. Na5 Kc8 18. Nb7 Kb8 19. Rb1 Bb5 20. Nd8 Kc8 21. Nc6 Bxc6 22. Rb8+ 1-0
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "8"]
+[White "MCTS80"]
+[Black "MCTS120"]
+[Result "0-1"]
+
+1. b4 Na6 2. d4 Nh6 3. g4 Nxg4 4. c3 g5 5. Be3 Rg8 6. b5 b6 7. Na3 d6 8. h4 Nf6 9. Bxg5 Bh6 10. Bxh6 Rg2 11. Qd3 Rg3 12. Bf8 Rg2 13. Kd1 Rg3 14. Qf5 Rg2 15. Qh5 Rg3 16. Qd5 Rxg1 17. Nb1 Nxd5 18. a3 Ne3+ 19. Kc1 Ng2 20. Kb2 Nc5 21. dxc5 dxc5 22. e4 Qd2+ 23. Nxd2 Nf4 24. Kc2 Rxf1 25. Rd1 Nd3 26. Kxd3 c4+ 0-1
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "9"]
+[White "MCTS120"]
+[Black "MCTS80"]
+[Result "1-0"]
+
+1. b3 b6 2. h4 d6 3. Nh3 g6 4. Na3 Bg4 5. g3 c6 6. Nf4 Nf6 7. Nb5 Rg8 8. Nc7+ Qxc7 9. d3 Be6 10. Rg1 Rg7 11. c3 g5 12. Qc2 Bf5 13. Be3 Na6 14. c4 Bg6 15. Rd1 Rd8 16. Nh5 Rg8 17. Nxf6+ exf6 18. d4 Be7 19. Bh3 Kf8 20. Bxg5 fxg5 21. Qd2 b5 22. Qxg5 Bxg5 23. Kf1 Bc2 24. Rd3 Qe7 25. Rf3 Qf6 26. Rxf6 Bxf6 27. b4 Bg7 28. Kg2 Be4+ 29. Kh2 Bf6 30. Rh1 Rxg3 31. fxg3 Bxd4 32. Rf1 Bg1+ 33. Kxg1 Kg8 34. Be6 Kh8 35. Rxf7 Rg8 36. Rxh7+ 1-0
+
+[Event "MCTS80_vs_MCTS120"]
+[Site "?"]
+[Date "2021.12.14"]
+[Round "10"]
+[White "MCTS80"]
+[Black "MCTS120"]
+[Result "0-1"]
+
+1. Nh3 Na6 2. Nc3 g5 3. g4 e5 4. f3 b6 5. f4 Ne7 6. Rg1 d5 7. a4 Rg8 8. Kf2 Nb8 9. Na2 b5 10. Rg2 Nd7 11. e4 gxf4 12. d3 Ng6 13. Kg1 a6 14. Qd2 Qh4 15. Rb1 Bc5+ 16. Kh1 Qxh3 17. Qf2 Qxg2+ 18. Qxg2 Be3 19. Qe2 Nh4 20. Bxe3 Rxg4 21. Qxg4 Nf5 22. Qxf5 Nf8 23. Qd7+ Bxd7 24. Bh3 Bxh3 25. Kg1 fxe3 26. d4 e2 27. Kh1 Bg2+ 0-1
+

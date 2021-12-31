@@ -1,0 +1,20 @@
+[Event "MCTS70_vs_Multi_Variant_Stockfish_1"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "1"]
+[White "Multi Variant Stockfish"]
+[Black "MCTS70"]
+[Result "1-0"]
+
+1. e4 e5 2. Qh5 Qf6 3. Bc4 Kd8 4. Qxf7 Nh6 5. Qxf6+ gxf6 6. Ne2 c5 7. Nbc3 Be7 8. d3 d5 9. Nxd5 Na6 10. Bxh6 Re8 11. O-O Bd7 12. Rad1 Bg4 13. f3 f5 14. fxg4 Rg8 15. Nxe7 Kc7 16. Nd5+ Kb8 17. Rxf5 Rd8 18. Rf7 Rc8 19. Rxb7+ 1-0
+
+[Event "MCTS70_vs_Multi_Variant_Stockfish_1"]
+[Site "?"]
+[Date "2021.12.26"]
+[Round "2"]
+[White "MCTS70"]
+[Black "Multi Variant Stockfish"]
+[Result "0-1"]
+
+1. g3 d5 2. e4 Nc6 3. Qf3 Nf6 4. Be2 dxe4 5. Qxf6 exf6 6. b3 Nb4 7. Kd1 Bc5 8. c4 Nd3 9. Kc2 O-O 10. Nc3 f5 11. f3 Re8 12. Nd5 c6 13. Nc7 Bd4 14. Nh3 Nb4+ 15. Kb1 Qxc7 16. fxe4 Qe5 17. Bd3 Bxa1 18. Rd1 Nxd3 19. Re1 Nxe1 20. Ng5 fxe4 21. Nxf7 Kxf7 22. h3 Bxh3 23. b4 Nd3 24. Ba3 Bb2 25. g4 Bxa3 26. Kc2 Nxb4+ 27. Kb1 Qa1+ 0-1
+

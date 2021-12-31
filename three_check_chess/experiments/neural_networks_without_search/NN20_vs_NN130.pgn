@@ -1,0 +1,100 @@
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "1"]
+[White "NN130"]
+[Black "NN20"]
+[Result "1-0"]
+
+1. d3 Na6 2. Be3 Nb4 3. Kd2 d6 4. Bd4 Kd7 5. Bc3 h6 6. Nf3 Rh7 7. Ne5+ Ke8 8. Ng4 Kd7 9. Ne5+ Ke8 10. e3 Qd7 11. Qf3 Qc6 12. Qxc6+ 1-0
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "2"]
+[White "NN20"]
+[Black "NN130"]
+[Result "0-1"]
+
+1. Nf3 h5 2. b3 a6 3. d3 Nf6 4. Kd2 Nd5 5. Bb2 Nc3 6. Kxc3 c5 7. Rg1 Qa5+ 8. Kc4 b5+ 9. Kd5 e6+ 0-1
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "3"]
+[White "NN130"]
+[Black "NN20"]
+[Result "1-0"]
+
+1. g4 d6 2. e3 b5 3. Bxb5+ c6 4. Bxc6+ Nxc6 5. Qf3 Qc7 6. Qxf7+ 1-0
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "4"]
+[White "NN20"]
+[Black "NN130"]
+[Result "0-1"]
+
+1. a4 c5 2. e3 c4 3. Be2 d5 4. Na3 Bf5 5. Rb1 Nc6 6. Nxc4 Qc8 7. c3 Nb4 8. Qc2 Nxc2+ 9. Kf1 Nxe3+ 10. fxe3 Qxc4 11. Ra1 Qd3 12. Bxd3 Bxd3+ 0-1
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "5"]
+[White "NN130"]
+[Black "NN20"]
+[Result "1-0"]
+
+1. c4 Nh6 2. g4 Nc6 3. f4 d6 4. g5 Bg4 5. Nf3 Rg8 6. Nc3 e5 7. Na4 Kd7 8. Nb6+ Ke8 9. Na4 Qc8 10. Nc5 Be7 11. Nxb7 Rh8 12. Nxd6+ Bxd6 13. g6 Rg8 14. gxf7+ 1-0
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "6"]
+[White "NN20"]
+[Black "NN130"]
+[Result "0-1"]
+
+1. d4 e5 2. c3 d5 3. Bg5 Bd7 4. f4 Qxg5 5. Qc2 Qh4+ 6. Kd2 Qxf4+ 7. Ke1 Qd2+ 0-1
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "7"]
+[White "NN130"]
+[Black "NN20"]
+[Result "1-0"]
+
+1. Nh3 h5 2. Ng5 c6 3. Ne4 Qc7 4. Nd6+ exd6 5. h4 Qd8 6. g3 Be7 7. Nc3 Qc7 8. Nd5 Qd8 9. Nc7+ Qxc7 10. e3 Qb6 11. Qf3 Rh7 12. Qd5 Rh6 13. Qxf7+ 1-0
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "8"]
+[White "NN20"]
+[Black "NN130"]
+[Result "0-1"]
+
+1. b4 e5 2. d3 Ke7 3. Kd2 Nc6 4. Bb2 Nxb4 5. h3 Ke8 6. Rh2 Qg5+ 7. Kc3 Qd2+ 8. Nxd2 Nd5+ 0-1
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "9"]
+[White "NN130"]
+[Black "NN20"]
+[Result "1-0"]
+
+1. a3 e5 2. g3 c6 3. Nf3 Be7 4. Bg2 Qc7 5. O-O Qb6 6. e3 Na6 7. Ne1 Nc5 8. Kh1 a6 9. Qg4 h6 10. Qb4 Qc7 11. Qf4 Qb6 12. Qxf7+ Kxf7 13. Bd5+ cxd5 14. Nf3 Rb8 15. Nxe5+ 1-0
+
+[Event "NN20_vs_NN130"]
+[Site "?"]
+[Date "2021.12.25"]
+[Round "10"]
+[White "NN20"]
+[Black "NN130"]
+[Result "0-1"]
+
+1. d3 Na6 2. f3 h5 3. Nd2 Nb8 4. h3 e6 5. Rh2 Qh4+ 6. g3 Qxg3+ 7. Rf2 Qxf2+ 0-1
+
